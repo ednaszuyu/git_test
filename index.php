@@ -3,6 +3,8 @@
 $b = "lalalala";
 $c = "i do nothing for u....";
 
+$d = 'kljj';
+
 git initial
 
 git status//看狀態
